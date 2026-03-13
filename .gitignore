@@ -6,10 +6,6 @@ backend/uploads/*
 !backend/uploads/.gitkeep
 .DS_Store
 npm-debug.log*
-node_modules
-.env
-.env.local
-.next
 dist
 build
 uploads
